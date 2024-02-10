@@ -1,4 +1,4 @@
-# machine-learning-collaborative-filtering-for-recommendations
+# Machine Learning Collaborative Filtering for Recommendations
 
 This project is to use machine learning to perform collaborative filtering and generate recommendation for online grocery buyer.
 
@@ -150,7 +150,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Oscar Lee</br>
 Email: mail.oscar.lee@gmail.com</br>
 LinkedIn: [https://www.linkedin.com/in/oscarlee1](https://www.linkedin.com/in/oscarlee1)</br>
-Project Link: [https://github.com/oscarlee711/image-classification-neural-network](https://github.com/oscarlee711/image-classification-neural-network)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
